@@ -271,10 +271,6 @@ Potential Energy
 
 Regression
 
-Quantum Chemistry
-
-Chemical Informatics
-
 Scientific Python
 
 Scikit-Learn
